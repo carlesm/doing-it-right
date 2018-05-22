@@ -1,10 +1,28 @@
-# Novell (Shu)
+# Organització general
+
+És impossible definir un únic format de document que serveixi per a qualsevol pràctica de qualsevol assignatura. Per tant s'han definit diferents tipus d'assignatura i diferents formats de documentació. En concret s'han definit tres categories:
+
+* Novell
+* Principiant
+* Competent
+
+que t'han poden aplicar-se a l'evolució de l'alumne, com al tipus d'assignatura:
+
+* Fonaments i bones pràctiques
+* Tècniques concretes
+* Decisions de disseny
+
+Cada nivell té objectius diferents a assolir i, per tant, té sentit demanar elements diferents com a documentació de les pràctiques. 
+
+Això sí, com a criteri general s'hauria d'evitar demanar coses "per demanar-les" i que aquestes no tinguéssin desprès rellevància a l'avaluació de la pràctica.
+
+# Novell / Fonament
 
 ## Descripció i objectius
 
 * assignatures de primer nivell on l'objectiu no és tan sols aprendre una sèrie de tècniques sinó adquirir una sèrie de bones pràctiques o costums a aplicar en tots els projectes posteriors
 
-* una de les principals pràctiques que hauran d'adquiri els alumnes és la capacitat de raonar sobre les seves pròpies solucions. I no fer-ho en base a les línies de codi una-a-una, sinó en base a abstraccions com esquemes algorítmics
+* una de les principals habilitats que hauran d'adquiri els alumnes és la capacitat de raonar sobre les seves pròpies solucions. I no fer-ho en base a les línies de codi una-a-una, sinó en base a abstraccions com esquemes algorítmics
 
 * un altre bon costum que caldrà adquiri és no conformar-se amb la primera solució obtinguda. És per això que en la memòria es demana que comentin l'evolució del codi fins arribar a la solució que han donat per bona i han entregat
 
@@ -29,7 +47,7 @@
 
 * entorn de desenvolupament
 
-# Principiant (Ha)
+# Principiant / Tècniques concretes
 
 ## Descripció i objectius
 
@@ -57,7 +75,7 @@
 * control de versions
 * proves de software (potser ja nivell anterior?)
 
-# Competent (Ri)
+# Competent / Decisions de disseny
 
 ## Descripció i objectius
 
@@ -65,7 +83,7 @@
 
 * aquí és fonamental que l'alumni expliqui el perquè fa les coses com les fa: quins elements de judici ha aplicat per a fer el que ha fet; quines possibilitats ha considerat i perquè les ha descartat
 
-* els raonaments, les decisions de disseny, hauran de concernir elements més abstractes (p.e. dependències) que meres decicions locals
+* els raonaments, les decisions de disseny, hauran de concernir elements més abstractes (p.e. dependències) que meres decisions locals
 
 * com sempre els nivells anteriors han d'estar completament assolits
 
@@ -78,7 +96,8 @@
 ## Memòria
 
 * decisions de disseny alt nivell: arquitectura, patrons
-* alternatives no escollides
+* utilització de diagrames estàndard (p.e. UML)
+* alternatives no escollides i raons per les que es van descartar
 
 ## Eines
 
