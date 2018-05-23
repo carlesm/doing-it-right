@@ -1,12 +1,14 @@
 # Organització general
 
-És impossible definir un únic format de document que serveixi per a qualsevol pràctica de qualsevol assignatura. Per tant s'han definit diferents tipus d'assignatura i diferents formats de documentació. En concret s'han definit tres categories:
+És impossible definir un únic format de document que serveixi per a qualsevol pràctica de qualsevol assignatura. Per tant s'han definit diferents tipus d'assignatura i diferents formats de documentació. 
+
+En concret s'han definit tres categories:
 
 * Novell
 * Principiant
 * Competent
 
-que t'han poden aplicar-se a l'evolució de l'alumne, com al tipus d'assignatura:
+que tan poden aplicar-se a l'evolució de l'alumne, com al tipus d'assignatura:
 
 * Fonaments i bones pràctiques
 * Tècniques concretes
@@ -14,7 +16,16 @@ que t'han poden aplicar-se a l'evolució de l'alumne, com al tipus d'assignatura
 
 Cada nivell té objectius diferents a assolir i, per tant, té sentit demanar elements diferents com a documentació de les pràctiques. 
 
-Això sí, com a criteri general s'hauria d'evitar demanar coses "per demanar-les" i que aquestes no tinguéssin desprès rellevància a l'avaluació de la pràctica.
+Això sí, com a criteris generals:
+
+* el que es demana ha de tenir rellevància a l'avaluació de la pràctica (principalment si porta temps fer-ho bé) i hauria d'estar relacionat amb els objectius de la matèria
+
+    - no demanar coses per demanar
+    - no demanar coses que després ni es mirem
+
+* és convenient que l'alumne disposi de models i exemples dels elements que ha de tenir una documentació
+
+    - molt sovint la part de la programació sí queda coberta pels molts exemples que es veuen a classe, però no la documentació de les pràctiques)
 
 # Novell / Fonament
 
@@ -35,17 +46,19 @@ Això sí, com a criteri general s'hauria d'evitar demanar coses "per demanar-le
 * codi net
 * sobre els comentaris
 
-    “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+    - “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ## Memòria
 
 * portada
-* ús de diagrames informals per explicar decisions
+* ús de diagrames informals per explicar dissenys
+* esquemes algorítmics aplicats
 * descripció del principals problemes trobats
 
 ## Eines
 
 * entorn de desenvolupament
+* editor de text (ús del corrector i format del document)
 
 # Principiant / Tècniques concretes
 
