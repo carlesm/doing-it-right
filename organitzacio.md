@@ -20,9 +20,10 @@ d'execució, finalitats i mides dels programes, hi ha una sèrie de ítems que a
 el codi mes fàcil de llegir i mantenir:
 
 - Mantenir el directori principal com més net millor.
-- Tenir el codi en subdirectoris, en la mesura del possible, en el mínim
-- Tenir documents que expliquin com executar/instal·lar, etc. el nostre projecte en
-el directori principal.
+- Tenir el codi en subdirectoris, en la mesura del possible, tot el codi en un subdirectori
+que pengi del principal, organitzat allí per subdirectoris
+- Tenir un document que expliquin com executar/instal·lar, etc. el nostre projecte en
+el directori principal, anomenat INSTALL o bé dins del README.
 
 
 ## Python
@@ -34,6 +35,15 @@ entorns: el vostre ordinador, el portàtil, els laboratoris, l'ordinador del pro
 - diferents llibreries i versions d'aquestes
 - diferents arquitectures i sistemes operatius
 
+
+
+### Notebooks
+
+Si el codi a entregar és molt simple, una sèrie de càlculs, etc. i els resultats d'aquests càlculs, una eina molt fàcil d'emprar (i que va més enllà de python), és el notebook. Un
+notebook és un únic fitxer que conté:
+- text amb format
+- codi
+- *opcionalment* el resultat d'executar el codi
 
 
 ### Simple demostració
