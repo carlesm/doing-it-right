@@ -26,6 +26,7 @@ que pengi del principal, organitzat allí per subdirectoris
 el directori principal, anomenat INSTALL o bé dins del README.
 
 
+
 ## Python
 
 Un dels potencials problemes de python per executar aquells programes en diferents
