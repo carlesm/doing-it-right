@@ -89,7 +89,7 @@ I en quan a aspectes més de tècnica de programació
 
 ## Documentació 
 
-Una de les principals habilitats que hauran d'adquirir els alumnes és la __capacitat de raonar sobre les seves pròpies solucions__. I no fer-ho en base a les línies de codi una-a-una, sinó en base a abstraccions com esquemes algorítmics, és sensat demanar a la documentació que expliquin les seves solucions en base a aquests esquemes algorítmics (i no que comentin, línia a línia, el codi que han fet)
+Una de les principals habilitats que hauran d'adquirir els alumnes és la __capacitat de raonar sobre les seves pròpies solucions__. I no fer-ho en base a les línies de codi una-a-una, sinó en base a abstraccions com esquemes algorítmics. Per tant sembla sensat demanar a la documentació que expliquin les seves solucions en base a aquests esquemes algorítmics (i no que comentin, línia a línia, el codi que han fet)
 
 * portada
 * ús de diagrames informals per explicar dissenys (no cal usar eines de diagramació)
